@@ -9,7 +9,7 @@
 4. Click "Load Unpacked Extension" and select Bob as the directory
 5. If this is your first time using Bob, we have to do a little hack to enable Bob to get access to your microphone
   * First, right click Bob's extension icon and click "Options". You can also get to this page by clicking "Options" on the extension page
-  * You should see Bob request access to your microphone. Give her access!
+  * You should see Bob request access to your microphone. Give him access!
 6. Open a new page (say [Google](http://google.com)) and click on Bob's extension icon located on the right side of the navigation bar
 7. Say "Bob" and wait for a ding
 8. You're good to go!
@@ -24,3 +24,6 @@ Right now Bob supports the following actions:
   * Click link
   * Navigate to a link
   * Look up
+
+# Demo
+- https://youtu.be/N902fq_lB74
